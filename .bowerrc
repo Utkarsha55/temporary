@@ -1,0 +1,9 @@
+{
+  
+    "directory": "app/bower_components",
+    "registry": "http://bower.herokuapp.com",
+    "proxy":"http://user-name:password@10.74.91.103:80",
+    "https-proxy":"http://user-name:password@10.74.91.103:80",
+    "strict-ssl": false,
+    "json": "bower.json" 
+}

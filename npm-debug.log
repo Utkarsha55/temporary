@@ -1,0 +1,254 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'bower',
+1 verbose cli   'install',
+1 verbose cli   'grunt',
+1 verbose cli   'serve' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose install initial load of D:\YoWorkspace\node_modules\.bin\package.json
+5 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt\package.json
+6 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-angular-templates\package.json
+7 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-autoprefixer\package.json
+8 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-concurrent\package.json
+9 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-clean\package.json
+10 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-compass\package.json
+11 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-concat\package.json
+12 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-connect\package.json
+13 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-copy\package.json
+14 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-cssmin\package.json
+15 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-htmlmin\package.json
+16 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-imagemin\package.json
+17 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-jshint\package.json
+18 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-uglify\package.json
+19 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-contrib-watch\package.json
+20 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-filerev\package.json
+21 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-google-cdn\package.json
+22 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-karma\package.json
+23 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-newer\package.json
+24 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-ng-annotate\package.json
+25 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-svgmin\package.json
+26 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-usemin\package.json
+27 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\grunt-wiredep\package.json
+28 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\jasmine-core\package.json
+29 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\jit-grunt\package.json
+30 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\jshint-stylish\package.json
+31 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\karma\package.json
+32 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\karma-jasmine\package.json
+33 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\karma-phantomjs-launcher\package.json
+34 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\phantomjs\package.json
+35 verbose installManyTop reading scoped package data from D:\YoWorkspace\node_modules\.bin\node_modules\time-grunt\package.json
+36 info package.json grunt-angular-templates@0.5.7 No license field.
+37 info package.json grunt@0.4.5 No license field.
+38 info package.json grunt-contrib-clean@0.6.0 No license field.
+39 info package.json grunt-contrib-compass@1.0.3 No license field.
+40 info package.json grunt-contrib-concat@0.5.1 No license field.
+41 info package.json grunt-contrib-connect@0.9.0 No license field.
+42 info package.json grunt-contrib-copy@0.7.0 No license field.
+43 info package.json grunt-contrib-cssmin@0.12.3 No license field.
+44 info package.json grunt-contrib-htmlmin@0.4.0 No license field.
+45 info package.json grunt-contrib-imagemin@0.9.4 No license field.
+46 info package.json grunt-contrib-uglify@0.7.0 No license field.
+47 info package.json grunt-contrib-watch@0.6.1 No license field.
+48 info package.json grunt-contrib-jshint@0.11.2 No license field.
+49 info package.json grunt-google-cdn@0.4.3 license should be a valid SPDX license expression
+50 info package.json grunt-filerev@2.3.1 license should be a valid SPDX license expression
+51 info package.json grunt-svgmin@2.0.1 No license field.
+52 info package.json grunt-wiredep@2.0.0 No license field.
+53 verbose readDependencies loading dependencies from D:\YoWorkspace\node_modules\.bin\package.json
+54 silly cache add args [ 'bower', null ]
+55 verbose cache add spec bower
+56 silly cache add args [ 'install', null ]
+57 verbose cache add spec install
+58 verbose install grunt is installed as 0.4.5
+59 silly cache add args [ 'grunt', null ]
+60 verbose cache add spec grunt
+61 silly cache add args [ 'serve', null ]
+62 verbose cache add spec serve
+63 silly cache add parsed spec { raw: 'bower',
+63 silly cache add   scope: null,
+63 silly cache add   name: null,
+63 silly cache add   rawSpec: 'bower',
+63 silly cache add   spec: 'D:\\YoWorkspace\\node_modules\\.bin\\bower',
+63 silly cache add   type: 'local' }
+64 silly cache add parsed spec { raw: 'install',
+64 silly cache add   scope: null,
+64 silly cache add   name: 'install',
+64 silly cache add   rawSpec: '',
+64 silly cache add   spec: '*',
+64 silly cache add   type: 'range' }
+65 silly addNamed install@*
+66 verbose addNamed "*" is a valid semver range for install
+67 silly addNameRange { name: 'install', range: '*', hasData: false }
+68 silly mapToRegistry name install
+69 silly mapToRegistry using default registry
+70 silly mapToRegistry registry https://registry.npmjs.org/
+71 silly mapToRegistry uri https://registry.npmjs.org/install
+72 verbose addNameRange registry:https://registry.npmjs.org/install not in flight; fetching
+73 silly cache add parsed spec { raw: 'grunt',
+73 silly cache add   scope: null,
+73 silly cache add   name: null,
+73 silly cache add   rawSpec: 'grunt',
+73 silly cache add   spec: 'D:\\YoWorkspace\\node_modules\\.bin\\grunt',
+73 silly cache add   type: 'local' }
+74 silly cache add parsed spec { raw: 'serve',
+74 silly cache add   scope: null,
+74 silly cache add   name: 'serve',
+74 silly cache add   rawSpec: '',
+74 silly cache add   spec: '*',
+74 silly cache add   type: 'range' }
+75 silly addNamed serve@*
+76 verbose addNamed "*" is a valid semver range for serve
+77 silly addNameRange { name: 'serve', range: '*', hasData: false }
+78 silly mapToRegistry name serve
+79 silly mapToRegistry using default registry
+80 silly mapToRegistry registry https://registry.npmjs.org/
+81 silly mapToRegistry uri https://registry.npmjs.org/serve
+82 verbose addNameRange registry:https://registry.npmjs.org/serve not in flight; fetching
+83 verbose request uri https://registry.npmjs.org/install
+84 verbose request no auth needed
+85 info attempt registry request try #1 at 6:28:45 PM
+86 verbose request id b0b7e17db9189e4c
+87 http request GET https://registry.npmjs.org/install
+88 verbose request uri https://registry.npmjs.org/serve
+89 verbose request no auth needed
+90 info attempt registry request try #1 at 6:28:45 PM
+91 http request GET https://registry.npmjs.org/serve
+92 silly addLocalTarball shasum (computed) 9f968be1ed48d6314cb2165a0bec24f6d01a008c
+93 verbose addTmpTarball D:\YoWorkspace\node_modules\.bin\bower not in flight; adding
+94 silly addLocalTarball shasum (computed) e29e29b4c9d388836a4afe4f08f0740347ac9117
+95 verbose addTmpTarball D:\YoWorkspace\node_modules\.bin\grunt not in flight; adding
+96 verbose getCacheStat cache creation not in flight; initializing
+97 verbose getCacheStat cache creation already in flight; waiting
+98 verbose makeCacheDir UID & GID are irrelevant on win32
+99 verbose addTmpTarball validating metadata from D:\YoWorkspace\node_modules\.bin\bower
+100 verbose tar unpack D:\YoWorkspace\node_modules\.bin\bower
+101 verbose tar unpacking to C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\unpack-626d286be294
+102 silly gentlyRm C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\unpack-626d286be294 is being purged
+103 verbose gentlyRm don't care about contents; nuking C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\unpack-626d286be294
+104 verbose addTmpTarball validating metadata from D:\YoWorkspace\node_modules\.bin\grunt
+105 verbose tar unpack D:\YoWorkspace\node_modules\.bin\grunt
+106 verbose tar unpacking to C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\unpack-20651d95df1c
+107 silly gentlyRm C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\unpack-20651d95df1c is being purged
+108 verbose gentlyRm don't care about contents; nuking C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\unpack-20651d95df1c
+109 silly gunzTarPerm modes [ '777', '666' ]
+110 silly gunzTarPerm modes [ '777', '666' ]
+111 error not a package D:\YoWorkspace\node_modules\.bin\grunt
+112 error addLocal Could not install D:\YoWorkspace\node_modules\.bin\grunt
+113 error not a package D:\YoWorkspace\node_modules\.bin\bower
+114 error addLocal Could not install D:\YoWorkspace\node_modules\.bin\bower
+115 http 200 https://registry.npmjs.org/install
+116 silly get cb [ 200,
+116 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+116 silly get     etag: '"E366EZ1PP0PRHGRS019U820V3"',
+116 silly get     'content-type': 'application/json',
+116 silly get     'cache-control': 'max-age=60',
+116 silly get     'content-length': '10423',
+116 silly get     'accept-ranges': 'bytes',
+116 silly get     date: 'Wed, 26 Aug 2015 12:58:46 GMT',
+116 silly get     via: '1.1 varnish',
+116 silly get     age: '27',
+116 silly get     connection: 'close',
+116 silly get     'x-served-by': 'cache-ams4131-AMS',
+116 silly get     'x-cache': 'HIT',
+116 silly get     'x-cache-hits': '2',
+116 silly get     'x-timer': 'S1440593926.843608,VS0,VE0',
+116 silly get     vary: 'Accept' } ]
+117 verbose get saving install to C:\Users\mahendra_pal\AppData\Roaming\npm-cache\registry.npmjs.org\install\.cache.json
+118 silly addNameRange number 2 { name: 'install', range: '*', hasData: true }
+119 silly addNameRange versions [ 'install',
+119 silly addNameRange   [ '0.1.1',
+119 silly addNameRange     '0.1.2',
+119 silly addNameRange     '0.1.3',
+119 silly addNameRange     '0.1.4',
+119 silly addNameRange     '0.1.5',
+119 silly addNameRange     '0.1.6',
+119 silly addNameRange     '0.1.7',
+119 silly addNameRange     '0.1.8' ] ]
+120 silly addNamed install@0.1.8
+121 verbose addNamed "0.1.8" is a plain semver version for install
+122 silly mapToRegistry name install
+123 silly mapToRegistry using default registry
+124 silly mapToRegistry registry https://registry.npmjs.org/
+125 silly mapToRegistry uri https://registry.npmjs.org/install
+126 verbose addRemoteTarball https://registry.npmjs.org/install/-/install-0.1.8.tgz not in flight; adding
+127 verbose addRemoteTarball [ 'https://registry.npmjs.org/install/-/install-0.1.8.tgz',
+127 verbose addRemoteTarball   '9980ef93e30dfb534778d163bc86ddd472ad5fe8' ]
+128 info retry fetch attempt 1 at 6:28:46 PM
+129 info attempt registry request try #1 at 6:28:46 PM
+130 http fetch GET https://registry.npmjs.org/install/-/install-0.1.8.tgz
+131 http 200 https://registry.npmjs.org/serve
+132 silly get cb [ 200,
+132 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+132 silly get     etag: '"5T3PTVQIYL9CT6PB4VW6NJ0NY"',
+132 silly get     'content-type': 'application/json',
+132 silly get     'cache-control': 'max-age=60',
+132 silly get     'content-length': '14592',
+132 silly get     'accept-ranges': 'bytes',
+132 silly get     date: 'Wed, 26 Aug 2015 12:58:47 GMT',
+132 silly get     via: '1.1 varnish',
+132 silly get     age: '0',
+132 silly get     connection: 'close',
+132 silly get     'x-served-by': 'cache-ams4140-AMS',
+132 silly get     'x-cache': 'HIT',
+132 silly get     'x-cache-hits': '1',
+132 silly get     'x-timer': 'S1440593926.851249,VS0,VE388',
+132 silly get     vary: 'Accept' } ]
+133 verbose get saving serve to C:\Users\mahendra_pal\AppData\Roaming\npm-cache\registry.npmjs.org\serve\.cache.json
+134 silly addNameRange number 2 { name: 'serve', range: '*', hasData: true }
+135 silly addNameRange versions [ 'serve',
+135 silly addNameRange   [ '0.0.1',
+135 silly addNameRange     '0.0.2',
+135 silly addNameRange     '0.0.3',
+135 silly addNameRange     '0.0.4',
+135 silly addNameRange     '0.0.5',
+135 silly addNameRange     '1.0.0',
+135 silly addNameRange     '1.0.1',
+135 silly addNameRange     '1.0.2',
+135 silly addNameRange     '1.0.3',
+135 silly addNameRange     '1.1.0',
+135 silly addNameRange     '1.2.0',
+135 silly addNameRange     '1.3.0',
+135 silly addNameRange     '1.4.0' ] ]
+136 silly addNamed serve@1.4.0
+137 verbose addNamed "1.4.0" is a plain semver version for serve
+138 silly mapToRegistry name serve
+139 silly mapToRegistry using default registry
+140 silly mapToRegistry registry https://registry.npmjs.org/
+141 silly mapToRegistry uri https://registry.npmjs.org/serve
+142 verbose addRemoteTarball https://registry.npmjs.org/serve/-/serve-1.4.0.tgz not in flight; adding
+143 verbose addRemoteTarball [ 'https://registry.npmjs.org/serve/-/serve-1.4.0.tgz',
+143 verbose addRemoteTarball   'e35f3ce6b42586b7f3ded7b5b0a31a01bb0e1005' ]
+144 info retry fetch attempt 1 at 6:28:47 PM
+145 info attempt registry request try #1 at 6:28:47 PM
+146 http fetch GET https://registry.npmjs.org/serve/-/serve-1.4.0.tgz
+147 http fetch 200 https://registry.npmjs.org/install/-/install-0.1.8.tgz
+148 silly fetchAndShaCheck shasum 9980ef93e30dfb534778d163bc86ddd472ad5fe8
+149 verbose addTmpTarball C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\registry.npmjs.org\install\-\install-0.1.8.tgz not in flight; adding
+150 verbose addTmpTarball already have metadata; skipping unpack for install@0.1.8
+151 silly cache afterAdd install@0.1.8
+152 verbose afterAdd C:\Users\mahendra_pal\AppData\Roaming\npm-cache\install\0.1.8\package\package.json not in flight; writing
+153 verbose afterAdd C:\Users\mahendra_pal\AppData\Roaming\npm-cache\install\0.1.8\package\package.json written
+154 http fetch 200 https://registry.npmjs.org/serve/-/serve-1.4.0.tgz
+155 silly fetchAndShaCheck shasum e35f3ce6b42586b7f3ded7b5b0a31a01bb0e1005
+156 verbose addTmpTarball C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\registry.npmjs.org\serve\-\serve-1.4.0.tgz not in flight; adding
+157 verbose addTmpTarball already have metadata; skipping unpack for serve@1.4.0
+158 silly cache afterAdd serve@1.4.0
+159 verbose afterAdd C:\Users\mahendra_pal\AppData\Roaming\npm-cache\serve\1.4.0\package\package.json not in flight; writing
+160 verbose afterAdd C:\Users\mahendra_pal\AppData\Roaming\npm-cache\serve\1.4.0\package\package.json written
+161 verbose stack Error: ENOENT, open 'C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\unpack-20651d95df1c\package.json'
+161 verbose stack     at Error (native)
+162 verbose cwd D:\YoWorkspace\node_modules\.bin
+163 error Windows_NT 6.1.7601
+164 error argv "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "bower" "install" "grunt" "serve"
+165 error node v0.12.7
+166 error npm  v2.11.3
+167 error path C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\unpack-20651d95df1c\package.json
+168 error code ENOENT
+169 error errno -4058
+170 error enoent ENOENT, open 'C:\Users\mahendra_pal\AppData\Local\Temp\npm-4532-61dc1854\unpack-20651d95df1c\package.json'
+170 error enoent This is most likely not a problem with npm itself
+170 error enoent and is related to npm not being able to find a file.
+171 verbose exit [ -4058, true ]
